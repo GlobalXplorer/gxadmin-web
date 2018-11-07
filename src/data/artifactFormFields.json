@@ -1,0 +1,95 @@
+{
+  "antiquityDiscovered": [
+    {
+      "label": "Object Type",
+      "id": "objectType",
+      "type": "text",
+      "placeholder": "Carved Relief"
+    },
+    {
+      "label": "Object Location",
+      "id": "objectLocation",
+      "type": "text",
+      "value": "West Trench, El-Lisht, Egypt",
+      "disabled": true
+    },
+    {
+      "label": "Location Coordinates",
+      "id": "coordinates",
+      "type": "text",
+      "value": "36R 328650 3272476",
+      "disabled": true
+    },
+    {
+      "label": "Discovery Details",
+      "id": "discoveryDetails",
+      "type": "file"
+    },
+    {
+      "label": "Archaeologist Account",
+      "id": "archaeologist",
+      "type": "text",
+      "placeholder": "0xf6003510c33d32e07d7065d098328500e668b0a7",
+      "disabled": true
+    },
+    {
+      "label": "Archaeologist Name",
+      "id": "archaeologistName",
+      "type": "text",
+      "placeholder": "Dr. Sarah Parcak",
+      "disabled": true
+    }
+  ],
+  "antiquitySecured": [
+    {
+      "label": "RFID",
+      "id": "rfid",
+      "type": "text",
+      "placeholder": "Syncing to your mobile device...",
+      "disabled": true
+    },
+    {
+      "label": "Measurements",
+      "id": "measurements",
+      "type": "text",
+      "placeholder": "31.32.24"
+    },
+    {
+      "label": "Weight",
+      "id": "weight",
+      "type": "number"
+    },
+    {
+      "label": "Security Details",
+      "id": "securityDetails",
+      "type": "file"
+    }
+  ],
+  "provenanceRegistered": [
+    {
+      "label": "Object Name",
+      "id": "objectName",
+      "type": "text",
+      "placeholder": "Muscular Male Relief Fragment"
+    },
+    {
+      "label": "Object Owner",
+      "id": "owner",
+      "type": "text",
+      "value": "0xf6d4fc07182d9a837636e357d1cfb4c58b290095",
+      "disabled": true
+    },
+    {
+      "label": "Object Description",
+      "id": "description",
+      "type": "textarea",
+      "placeholder": "Sunk relief of side of seated man wearing a cap wig, a broad collar that has double cut lines, and a belt with the top of his kilt visible. Very deeply cut relief - .5 mm at deepest edge, allowing for considerable molding. Very well defined musle tone on the arm and shoulder."
+    },
+    {
+      "label": "Associated Media",
+      "id": "media",
+      "type": "file",
+      "multiple": true
+    }
+  ]
+}
